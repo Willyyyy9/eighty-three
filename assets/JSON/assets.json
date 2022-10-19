@@ -1,0 +1,63 @@
+{
+    "address": [
+        {
+            "addressType": "Home Address",
+            "addressLineOne": "Mustafa St. No.2",
+            "addressLineTwo": "Street x12"
+        },
+        {
+            "addressType": "Office Address",
+            "addressLineOne": "Axis Istanbul B2 Block",
+            "addressLineTwo": "Floor 2, Office 11"
+        }
+    ],
+    "category": [
+        {
+            "categoryTitle": "Steak",
+            "categoryColor": "F9BDAD"
+        },
+        {
+            "categoryTitle": "Vegetables",
+            "categoryColor": "FAD96D"
+        },
+        {
+            "categoryTitle": "Beverages",
+            "categoryColor": "CCB8FF"
+        },
+        {
+            "categoryTitle": "Fish",
+            "categoryColor": "B0EAFD"
+        },
+        {
+            "categoryTitle": "Juice",
+            "categoryColor": "FF9DC2"
+        }
+    ],
+    "deal": [
+        {
+            "dealTitle": "Summer Sun Ice Cream",
+            "numberOfPieces": "5",
+            "locationTitle": "15 Minutes Away",
+            "price": "12",
+            "previousPrice": "18",
+            "dealColor": "FBEDD8"
+        },
+        {
+            "dealTitle": "Milka Chocolate",
+            "numberOfPieces": "3",
+            "locationTitle": "7 Minutes Away",
+            "price": "15",
+            "previousPrice": "32",
+            "dealColor": "CDF5E7"
+        }
+    ],
+    "megaDeal": [
+        {
+            "title": "WHOPPER",
+            "subtitle": "Mega",
+            "comment": "Avaliable until 24 December 2020",
+            "price": "17",
+            "previousPrice": "32"
+        }
+    ]
+}
